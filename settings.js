@@ -3,23 +3,23 @@ const chalk = require('chalk')
 
 //BOT SETTINGS//
 global.xprefix = '.'
-global.ownername = 'ElitePro'
+global.ownername = '༆༒💎☛❡☥〄☈èXé☥❤️‍🔥 𓃵ρ☈êß♄☚ 💎༒༆'
 global.botname = 'ELITE-PRO-V2'
 global.ytname = "YT: EliteProTechs"
 global.socialm = "GitHub: EliteProTech"
-global.location = "Port Harcourt, Nigeria"
-global.ownernumber = '2348109263390'
+global.location = "Lagos State, Nigeria"
+global.ownernumber = '2348153208405'
 
 //BOT SETTINGS 2//
-global.premium = ["2348109263390"] //Premium 
+global.premium = ["2348153208405"] //Premium 
 global.websitex = "https://youtube.com/@eliteprotechs"
 global.wagc = "https://whatsapp.com/channel/0029VaXaqHII1rcmdDBBsd3g"
 global.themeemoji = '👨🏼‍💻'
 global.wm = "ELITE-PRO-V2"
 global.botscript = 'https://github.com/EliteProTech/Elite-Pro-V2'
 global.packname = "Sticker By"
-global.author = "ELITE-PRO-V2\n\n+2348109263390"
-global.creator = "2348109263390@s.whatsapp.net"
+global.author = "ELITE-PRO-V2\n\n+2348153208405"
+global.creator = "2348153208405@s.whatsapp.net"
 global.elitepropp = 'https://i.ibb.co/jk0ynvbn/7a8c4b5b617fa11a1e9a61190f427546.jpg'
 
 //DEFAULT SETTINGS//
